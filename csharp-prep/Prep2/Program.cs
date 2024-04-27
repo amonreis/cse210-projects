@@ -78,7 +78,7 @@ class Program
         }
         else if (percentage < 70)
         {
-            Console.WriteLine("You have not passed the course. Tuition is available for an additional tuition fee");
+            Console.WriteLine("You have not passed the course! Tuition is available for an additional tuition fee");
         }
     }
 }

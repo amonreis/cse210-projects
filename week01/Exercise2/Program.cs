@@ -69,7 +69,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("You have not passed the course! Tutoring is available for an additional fee.");
+            Console.WriteLine("You failed the course! Tutoring is available for an additional fee.");
         }
     }
 }
